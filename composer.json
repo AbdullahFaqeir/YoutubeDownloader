@@ -28,8 +28,8 @@
   "license": "RPL-1.5",
   "require": {
     "php": ">=7.0",
-    "guzzlehttp/guzzle": "6.2",
-    "google/protobuf": "3.11"
+    "guzzlehttp/guzzle": "^7.2",
+    "google/protobuf": "^4.28.0"
   },
   "scripts": {
     "test": [
